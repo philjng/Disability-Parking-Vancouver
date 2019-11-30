@@ -6,6 +6,8 @@ const mapStyles = {
   height: '100%'
 };
 
+const vancouverCoordinates = { lat: 49.2827, lng: -123.1207 }
+
 export class MapContainer extends Component {
   state = {
     showingInfoWindow: false,  //Hides or the shows the infoWindow
@@ -34,7 +36,7 @@ export class MapContainer extends Component {
       <Map
         google={this.props.google}
         zoom={14}
-        initialCenter={{ lat: -1.2884, lng: 36.8233 }}
+        initialCenter={vancouverCoordinates}
       >
         <Marker
           onClick={this.onMarkerClick}
