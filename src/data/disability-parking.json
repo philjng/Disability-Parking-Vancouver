@@ -1,0 +1,2166 @@
+[
+  {
+     "datasetid":"disability-parking",
+     "recordid":"fe102bc9e53092b9664680982211415798f4fdbd",
+     "fields":{
+        "description":"Designated parking zone",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.161351,
+              49.233618
+           ]
+        },
+        "location":"East Side  5800 Balsam St",
+        "geo_local_area":"Kerrisdale"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"ac8ca2cddca9b03e84e404b57b0876145b336c81",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.121647,
+              49.282822
+           ]
+        },
+        "location":"West Side  700 Hornby St",
+        "geo_local_area":"Downtown"
+     },
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"7fbd493223be739849f48bebd6ea6a1de2f99aef",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.101352,
+              49.28032
+           ]
+        },
+        "location":"South Side 100 E Pender St",
+        "geo_local_area":"Downtown"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"603f78d5a70419b395187a964f28feac0c051233",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.069242,
+              49.27398
+           ]
+        },
+        "location":"North Side 1700 William St",
+        "geo_local_area":"Grandview-Woodland"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"e98c486833c18abe270a78c29d035138d98ec6f7",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.12386,
+              49.263448
+           ]
+        },
+        "location":"North Side 800 W Broadway",
+        "geo_local_area":"Fairview"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"6cca9adedb08d39341d6c06dbdd27ec76fde032c",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.097886,
+              49.278593
+           ]
+        },
+        "location":"North Side 200 E Georgia St",
+        "geo_local_area":"Strathcona"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"44d05f2d9b9d96547ece248ff63309c2a545b108",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.135596,
+              49.291635
+           ]
+        },
+        "location":"North Side 1800 Robson St",
+        "geo_local_area":"West End"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"a49138f91a72eb21cd2077852afe5c69c8c99b22",
+     "fields":{
+        "description":"Designated parking zone",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.137738,
+              49.28796
+           ]
+        },
+        "location":"West Side  1000 Bidwell St",
+        "geo_local_area":"West End"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"58ba345fa08102fe83e1da16c0e674689d10fafb",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.1378,
+              49.290176
+           ]
+        },
+        "location":"South Side 1800 Barclay St",
+        "geo_local_area":"West End"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"a4cc12a7951545cea6b2fdbd4b42233f8fca6a88",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.173047,
+              49.264087
+           ]
+        },
+        "location":"South Side 3000 W Broadway",
+        "geo_local_area":"Kitsilano"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"bf1c541c89b23721f5752cb20e2361fe44de64a3",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.065496,
+              49.230671
+           ]
+        },
+        "location":"East Side  5800 Victoria Drive",
+        "geo_local_area":"Victoria-Fraserview"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"c6ad07886ab1edca03a890f7ce651761cc1c87ba",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.138925,
+              49.265324
+           ]
+        },
+        "location":"South Side 1500 W 7th Av",
+        "geo_local_area":"Fairview"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"8fc1f50466bb82c87ed44292a5c5fa9672dce5d7",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.119352,
+              49.274782
+           ]
+        },
+        "location":"West Side  1000 Cambie St",
+        "geo_local_area":"Downtown"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"00376e97218b550f75480e635ff3cc3d1514823b",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.162689,
+              49.26406
+           ]
+        },
+        "location":"North Side 2500 W Broadway",
+        "geo_local_area":"Kitsilano"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"f8148e7aa87192087e40ff0ca6cae235001493f0",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.138192,
+              49.280236
+           ]
+        },
+        "location":"South Side 1200 Beach Av",
+        "geo_local_area":"West End"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"233b75126ef9716bf83e4f669a3c1819b55e5710",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.110675,
+              49.264822
+           ]
+        },
+        "location":"North Side 200 W 7th Av",
+        "geo_local_area":"Mount Pleasant"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"da92bd35e481b5f38f665b41493e64afc0a48122",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.115047,
+              49.254719
+           ]
+        },
+        "location":"East Side  3400 Cambie St",
+        "geo_local_area":"Riley Park"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"1ccb414bc916cf3ae8640ed67d842450d267f8ec",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.025618,
+              49.232311
+           ]
+        },
+        "location":"North Side 3600 Kingsway",
+        "geo_local_area":"Renfrew-Collingwood"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"eba31f389422d4b744338c921c94074025b81e35",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.185517,
+              49.246111
+           ]
+        },
+        "location":"South Side 3600 W 29th Av",
+        "geo_local_area":"Dunbar-Southlands"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"8b7d77b749a0f66072c05cd80ebf7d31d0e61146",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.140916,
+              49.211328
+           ]
+        },
+        "location":"South Side 1500 W 66th Av",
+        "geo_local_area":"Marpole"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"66cd252f7b03d53fe7e6a4241f7a76895cfc4329",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.128025,
+              49.290416
+           ]
+        },
+        "location":"North Side 1400 W Hastings St",
+        "geo_local_area":"Downtown"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"fa1fa11fbd5a7793929d52714c053055fa2fb7c6",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.121942,
+              49.276219
+           ]
+        },
+        "location":"West Side  1100 Homer St",
+        "geo_local_area":"Downtown"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"50214fcec02c81ced4bedee4e6ae38a962093df8",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.082866,
+              49.274061
+           ]
+        },
+        "location":"West Side  1200 Raymur Av",
+        "geo_local_area":"Strathcona"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"b5e32e9c61d9efd08796852156a8460abb540212",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.069818,
+              49.264713
+           ]
+        },
+        "location":"West Side  2200 Commercial Drive",
+        "geo_local_area":"Grandview-Woodland"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"8b9995a1375ca7c3bac815df9d71c6e963e19b57",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.101803,
+              49.283801
+           ]
+        },
+        "location":"South Side 100 Alexander St",
+        "geo_local_area":"Downtown"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"7eb3c0ed0a45faaf05c769b60d070fc33c6c979b",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.118021,
+              49.2687208
+           ]
+        },
+        "location":"East Side  400 Moberly Road",
+        "geo_local_area":"Fairview"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"9a47ba6d7cf836786e0c5274f889e8308f2977e0",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.142926,
+              49.270577
+           ]
+        },
+        "location":"South Side 1600 W 1st Av",
+        "geo_local_area":"Fairview"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"771fa0f629acf9303b35a0b9cd62e718a8ee1428",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.099266,
+              49.28233
+           ]
+        },
+        "location":"North Side 200 E Cordova St",
+        "geo_local_area":"Strathcona"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"82d1c09a01e3cfa83bccd80e1b41a9f89b70ba7f",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.127877,
+              49.278592
+           ]
+        },
+        "location":"South Side 1100 Hornby St",
+        "geo_local_area":"Downtown"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"8eb376493aaac31341b1ccbdc5b9dc1026bc295b",
+     "fields":{
+        "description":"Designated 3HR Parking Zone",
+        "notes":"No stopping accessible zone 3-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.18339,
+              49.268521
+           ]
+        },
+        "location":"South Side 3500 W 4th Av",
+        "geo_local_area":"Kitsilano"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"a427a2a5ebf7991a782f0f040fdd3d8520503b75",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.147652,
+              49.270643
+           ]
+        },
+        "location":"South Side 1800 W 1st Av",
+        "geo_local_area":"Kitsilano"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"7e6028e45480efdda8b68cb94d02afb744aeaed3",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.126062,
+              49.275038
+           ]
+        },
+        "location":"North Side 500 Drake St",
+        "geo_local_area":"Downtown"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"44f1dfd27ee0d6c07025998504dd850889901a96",
+     "fields":{
+        "description":"Designated parking zone",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.203083,
+              49.263926
+           ]
+        },
+        "location":"West Side  2500 Discovery St",
+        "geo_local_area":"West Point Grey"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"5d4357f06af0652afa8d77394823f84d8dc3803c",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.121105,
+              49.262383
+           ]
+        },
+        "location":"North Side 700 W 10th Av",
+        "geo_local_area":"Fairview"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"39bec2e6f3a6fcd176c4d0135b06ff6c75c9ad1c",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.118307,
+              49.262334
+           ]
+        },
+        "location":"North Side 600 W 10th Av",
+        "geo_local_area":"Fairview"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"c1a44f7630a650946d1db797b86145106905045f",
+     "fields":{
+        "description":"Designated 3HR parking zone - Under Granville St. Bridge",
+        "notes":"No stopping accessible zone 3-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.131423,
+              49.273831
+           ]
+        },
+        "location":"West Side  1500 Granville St",
+        "geo_local_area":"Downtown"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"e4d5be2c16aed1c0eb16b7b18cbac9ec7b769901",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.125992,
+              49.275005
+           ]
+        },
+        "location":"North Side 500 Drake St",
+        "geo_local_area":"Downtown"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"e9ca5773f1f2bb619a840cc91f9b2863f2a15042",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.125323,
+              49.262158
+           ]
+        },
+        "location":"East Side  2600 Laurel St",
+        "geo_local_area":"Fairview"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"307cfb8fd7e7098d525ad20ddce59515665987a8",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.121927,
+              49.284201
+           ]
+        },
+        "location":"North Side 1000 Alberni St",
+        "geo_local_area":"West End"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"8061a0fd9f52b59812015c9f02124212fd342209",
+     "fields":{
+        "description":"Designated parking zone",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.161317,
+              49.23678
+           ]
+        },
+        "location":"West Side  5400 Balsam St",
+        "geo_local_area":"Arbutus-Ridge"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"df151c8e3bedb9807ff91558c44d57e15075308b",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.069193,
+              49.271247
+           ]
+        },
+        "location":"South Side 1700 Grant St",
+        "geo_local_area":"Grandview-Woodland"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"bdae9187324d7c0be4a5893c5b8210a9c30e3b11",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.121273,
+              49.282925
+           ]
+        },
+        "location":"East Side  700 Hornby St",
+        "geo_local_area":"Downtown"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"62c7f9b5c8322011e288882470bd03bcffca54b5",
+     "fields":{
+        "description":"Designated parking zone",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.158484,
+              49.237811
+           ]
+        },
+        "location":"West Side  5300 Yew St",
+        "geo_local_area":"Arbutus-Ridge"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"bf813222f406cc98bc5e177d68174ce880469b30",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.10113,
+              49.250122
+           ]
+        },
+        "location":"West Side  3900 Main St",
+        "geo_local_area":"Riley Park"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"ef5585105edab55aa3d5f01c47cabef8c3259def",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.069548,
+              49.267647
+           ]
+        },
+        "location":"East Side  1900 Commercial Drive",
+        "geo_local_area":"Grandview-Woodland"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"5ea74f5852b2ef248f82855a4e1eeb1dd15304a5",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.14754,
+              49.267974
+           ]
+        },
+        "location":"South Side 1800 W 4th Av",
+        "geo_local_area":"Kitsilano"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"fde6d3ced67a7fceef7f0987e04c3135bd5c909e",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.140605,
+              49.287822
+           ]
+        },
+        "location":"South Side 1700 Pendrell St",
+        "geo_local_area":"West End"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"61b8944ee47070eb31f28b75062b34ca558decfd",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.132531,
+              49.289359
+           ]
+        },
+        "location":"West Side  800 Cardero St",
+        "geo_local_area":"West End"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"00c8f21cbdc843578e5a597774c7980617838bbe",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.126665,
+              49.275622
+           ]
+        },
+        "location":"West Side  1200 Seymour St",
+        "geo_local_area":"Downtown"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"7e54d1e42b95793b4015d7b6f10f4ca4dbf0373f",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.057757,
+              49.281354
+           ]
+        },
+        "location":"East Side  300 Garden Drive",
+        "geo_local_area":"Grandview-Woodland"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"3a6623793bc37e09cfe3eef26e3b9deedde727fb",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.065429,
+              49.233088
+           ]
+        },
+        "location":"East Side  5600 Victoria Drive",
+        "geo_local_area":"Kensington-Cedar Cottage"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"91958666d6f4d9fbc219650c6f049e03b6cc4bd1",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.139167,
+              49.262601
+           ]
+        },
+        "location":"South Side 1500 W 10th Av",
+        "geo_local_area":"Fairview"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"70c0d514644adffd104f3295a67dcb6683a1689b",
+     "fields":{
+        "description":"Designated 1HR parking zone",
+        "notes":"No stopping accessible zone 1-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.101281,
+              49.242414
+           ]
+        },
+        "location":"East Side  4700 Main St",
+        "geo_local_area":"Riley Park"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"dc304a708fc78355c84383d792650a69aa24bb98",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.032633,
+              49.232604
+           ]
+        },
+        "location":"North Side 3300 Kingsway",
+        "geo_local_area":"Renfrew-Collingwood"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"57ce5e9fad71b6b2ee025e417816e3e9d152da6e",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.052684,
+              49.239503
+           ]
+        },
+        "location":"North Side 2500 Kingsway",
+        "geo_local_area":"Renfrew-Collingwood"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"09b2d71b55bf7b1111d0cca2fd741b0ab43fbd19",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.18236,
+              49.234625
+           ]
+        },
+        "location":"South Side 3500 W 41st Av",
+        "geo_local_area":"Dunbar-Southlands"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"80604314150685d71870214d671c8a80609199b2",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.139649,
+              49.285752
+           ]
+        },
+        "location":"South Side 1600 Davie St",
+        "geo_local_area":"West End"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"c3983f124b97bebde0af1159ef15e67491bf5291",
+     "fields":{
+        "description":"Designated parking zone",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.038911,
+              49.280856
+           ]
+        },
+        "location":"West Side  400 Lillooet St",
+        "geo_local_area":"Hastings-Sunrise"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"39c84861665a0a2bfbefe868b2f6966e9e1f6106",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.130018,
+              49.277286
+           ]
+        },
+        "location":"West Side  1300 Hornby St",
+        "geo_local_area":"Downtown"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"1264f9ea244cfd0f19200c2fc7894b91c38f9775",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.101601,
+              49.25836
+           ]
+        },
+        "location":"South Side 100 E 14th Av",
+        "geo_local_area":"Mount Pleasant"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"433aae69915f84ff746e98c2a9363fc5ea35b21d",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.039382,
+              49.289483
+           ]
+        },
+        "location":"North Side 3100 New Brighton Road",
+        "geo_local_area":"Hastings-Sunrise"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"e671fa600c013c451d3b3bb31d9d6c7b27a2bd6c",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.155742,
+              49.247023
+           ]
+        },
+        "location":"North Side 2100 Eddington Drive",
+        "geo_local_area":"Arbutus-Ridge"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"b3e7317afbfc75026fb10d3c857d0e0370a7bb09",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.10559,
+              49.271571
+           ]
+        },
+        "location":"North Side 0 Athletes Way",
+        "geo_local_area":"Mount Pleasant"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"64aada7d6fa5e018476ba08b7029cf2db1620cc0",
+     "fields":{
+        "description":"Designated 3HR parking zone - Under Granville St. Bridge",
+        "notes":"No stopping accessible zone 3-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.13145,
+              49.27381
+           ]
+        },
+        "location":"West Side  1500 Granville St",
+        "geo_local_area":"Downtown"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"6ea517ddedff2d649a71995769a8fecf192955e8",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.090857,
+              49.226377
+           ]
+        },
+        "location":"West Side  6400 Fraser St",
+        "geo_local_area":"Sunset"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"aad5e5f203196e1ce7acd3b4f46588218433974c",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.090004,
+              49.255393
+           ]
+        },
+        "location":"West Side  3300 Fraser St",
+        "geo_local_area":"Riley Park"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"a8557f6feee23ac2e436359d92d762f24bcf9936",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.09074,
+              49.229961
+           ]
+        },
+        "location":"West Side  6000 Fraser St",
+        "geo_local_area":"Sunset"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"292bba4cdeb42cfe8453f8877c239e3dce8fcab1",
+     "fields":{
+        "description":"Designated 3HR Parking Zone",
+        "notes":"No stopping accessible zone 3-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.104607,
+              49.26372
+           ]
+        },
+        "location":"South Side 0 E 8th Av",
+        "geo_local_area":"Mount Pleasant"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"686197635e84b9b175706f21a55037acfc276cdd",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.113895,
+              49.266698
+           ]
+        },
+        "location":"North Side 400 W 5th Av",
+        "geo_local_area":"Mount Pleasant"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"bfbf31a89c5048927abb1418e7813f29ccd80a4c",
+     "fields":{
+        "notes":"No stopping accessible zone 8am-6pm",
+        "description":"Designated parking zone",
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.205585,
+              49.267183
+           ]
+        },
+        "location":"South Side 4300 W 6th Av",
+        "geo_local_area":"West Point Grey"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"a6b5e091d324ac85e0da7cd02e8d5c609d781c2a",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.211583,
+              49.26393
+           ]
+        },
+        "location":"North Side 4500 W 10th Av",
+        "geo_local_area":"West Point Grey"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"45b0f6ebc4556314c423157f40592cc3fe5085e2",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.123002,
+              49.262428
+           ]
+        },
+        "location":"North Side 800 W 10th Av",
+        "geo_local_area":"Fairview"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"26a6842c0f1c1e2356dbe5f79b58dde2b13286a3",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.121193,
+              49.262384
+           ]
+        },
+        "location":"North Side 700 W 10th Av",
+        "geo_local_area":"Fairview"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"ff9fae793a9e439e25e0dead8e81bce332bf7e2c",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.120931,
+              49.263392
+           ]
+        },
+        "location":"North Side 700 W Broadway",
+        "geo_local_area":"Fairview"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"83fbd498afa01f17a13dfd03bbc23221a57a7158",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.10552,
+              49.271571
+           ]
+        },
+        "location":"North Side 0 Athletes Way",
+        "geo_local_area":"Mount Pleasant"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"f51786041d1605af175b99282e8d96bbb0ea6c99",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.121027,
+              49.262381
+           ]
+        },
+        "location":"North Side 700 W 10th Av",
+        "geo_local_area":"Fairview"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"2cd5c48430d60a65173a4779e21d30ee295ad4fc",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.069865,
+              49.27218
+           ]
+        },
+        "location":"North Side 1600 Kitchener St",
+        "geo_local_area":"Grandview-Woodland"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"223fc3064ec7bba1e98ae6cc7ba83dbf9789e08b",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.069265,
+              49.27573
+           ]
+        },
+        "location":"South Side 1700 Parker St",
+        "geo_local_area":"Grandview-Woodland"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"3a7fe79dfdd536d9d902343c0896f73ad5853ac3",
+     "fields":{
+        "description":"Designated parking zone",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.159807,
+              49.236842
+           ]
+        },
+        "location":"East Side  5400 Vine St",
+        "geo_local_area":"Arbutus-Ridge"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"f0b7ebf9abc182da7ea0dc4ca922eb835a3dcc6d",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.101146,
+              49.262189
+           ]
+        },
+        "location":"West Side  2500 Main St",
+        "geo_local_area":"Mount Pleasant"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"4bb19d91115629e626e745cc98931f13e6e4243b",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.161686,
+              49.234602
+           ]
+        },
+        "location":"South Side 2400 W 41st Av",
+        "geo_local_area":"Arbutus-Ridge"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"099eaf7322e9f17ec01845445323458b78dc4f4e",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.101067,
+              49.247102
+           ]
+        },
+        "location":"East Side  4200 Main St",
+        "geo_local_area":"Riley Park"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"40f1d6c00bf73da164bb20972ce39d69f83c740d",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.099077,
+              49.280364
+           ]
+        },
+        "location":"South Side 200 E Pender St",
+        "geo_local_area":"Strathcona"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"c6f95eaf609a50e6125cbdfd317f391880021c1c",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.150453,
+              49.267918
+           ]
+        },
+        "location":"West Side  2000 Maple St",
+        "geo_local_area":"Kitsilano"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"721a5a35ccb49ffd8159d3dddbb16336f9338ec1",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.129796,
+              49.288055
+           ]
+        },
+        "location":"West Side  700 Broughton St",
+        "geo_local_area":"West End"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"9d2ef498022b25e68ecdbf264fba7fc8b839051a",
+     "fields":{
+        "description":"Designated parking zone",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.049416,
+              49.280955
+           ]
+        },
+        "location":"West Side  400 Slocan St",
+        "geo_local_area":"Hastings-Sunrise"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"58dd9277b804379a040dd174ae118a4aafb685b1",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.164868,
+              49.26394
+           ]
+        },
+        "location":"South Side 2600 W Broadway",
+        "geo_local_area":"Kitsilano"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"571e07b90a78f9631263c7a2ac0b470dd8ecf1e1",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.11344,
+              49.282943
+           ]
+        },
+        "location":"East Side  500 Richards St",
+        "geo_local_area":"Downtown"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"7d07453be7f1aece5353fe52a8c8ad6bdb94bfaf",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.032349,
+              49.237411
+           ]
+        },
+        "location":"North Side 3400 Crowley Drive",
+        "geo_local_area":"Renfrew-Collingwood"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"80a97848f4aa7ce12c572acdf76c0f00dbe316fa",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping disabled zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.138394,
+              49.258014
+           ]
+        },
+        "location":"North Side 1400 W 15th Av",
+        "geo_local_area":"Fairview"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"f014a7800ac30962728a383b4251445253cceb2f",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.090801,
+              49.228809
+           ]
+        },
+        "location":"West Side  6100 Fraser St",
+        "geo_local_area":"Sunset"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"ade8602a97166cbaeb3d8479d575abbade8b1b44",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.090656,
+              49.226714
+           ]
+        },
+        "location":"East Side  6300 Fraser St",
+        "geo_local_area":"Sunset"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"b0418d82a443938a5ddd89ccf1022920a7ecad8d",
+     "fields":{
+        "description":"Designated parking zone",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.146095,
+              49.263619
+           ]
+        },
+        "location":"South Side 1800 W Broadway",
+        "geo_local_area":"Kitsilano"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"18e031460173d957e4307ba544f40219f0dd1b84",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.054656,
+              49.28093
+           ]
+        },
+        "location":"West Side  400 Kamloops St",
+        "geo_local_area":"Hastings-Sunrise"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"90d6bba6ec18f90e0aab69a23ec68b33ae268f52",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.115941,
+              49.234632
+           ]
+        },
+        "location":"East Side  5500 Cambie St",
+        "geo_local_area":"Riley Park"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"c8e90b925094d88f19a43a7a5ed5d338e9fffcf8",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.185092,
+              49.248607
+           ]
+        },
+        "location":"East Side  4200 Dunbar St",
+        "geo_local_area":"Dunbar-Southlands"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"489dae1d9aeb3146057d906fbc091409d8dbcc12",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.128447,
+              49.279453
+           ]
+        },
+        "location":"East Side  1100 Burrard St",
+        "geo_local_area":"Downtown"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"4e8b1eefbc16837fed7d1255e5d2e5d56ce0d32a",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.157828,
+              49.234769
+           ]
+        },
+        "location":"West Side  5600 Yew St",
+        "geo_local_area":"Arbutus-Ridge"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"23d94a9607ab1ac319f8d3bb3a3871c317e75b13",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.157142,
+              49.263808
+           ]
+        },
+        "location":"South Side 2200 W Broadway",
+        "geo_local_area":"Kitsilano"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"68c34925a5d8e220b0b81457870710b7c61de281",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.176211,
+              49.264278
+           ]
+        },
+        "location":"North Side 3200 W Broadway",
+        "geo_local_area":"Kitsilano"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"ee65708c67924fa25d1d17b8b2ea06fbd26d405d",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.101613,
+              49.259286
+           ]
+        },
+        "location":"South Side 100 E 13th Av",
+        "geo_local_area":"Mount Pleasant"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"bd7484034ef9b7013d955e2a5b9f0ebf912593ea",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.116032,
+              49.231757
+           ]
+        },
+        "location":"East Side  5800 Cambie St",
+        "geo_local_area":"Oakridge"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"079f10cc199ab21acdecb9f8fdf516b6175faae9",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.123063,
+              49.2753257
+           ]
+        },
+        "location":"East Side  1100 Homer St",
+        "geo_local_area":"Downtown"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"4cf6234b777a3331923416a68cc4c68b8ab0ad68",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.099715,
+              49.2619217
+           ]
+        },
+        "location":"South Side 200 E 10th Av",
+        "geo_local_area":"Mount Pleasant"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"556fa066e26f2f3237eff0b2cfeb3c0771955b18",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.108411,
+              49.2831648
+           ]
+        },
+        "location":"South Side 100 W Cordova St",
+        "geo_local_area":"Downtown"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"9760f6f92a387616e25c7ad1369e8129b6305106",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.132059,
+              49.281015
+           ]
+        },
+        "location":"North Side 1100 Davie St",
+        "geo_local_area":"West End"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"dac862bcf041386addbe6a4690c096c1fb5edebc",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.093077,
+              49.27149
+           ]
+        },
+        "location":"South Side 500 Terminal Av",
+        "geo_local_area":"Strathcona"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"c31e58bafc0a1943ace39c994356cc4051878433",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.143048,
+              49.26622
+           ]
+        },
+        "location":"South Side 1600 W 6th Av",
+        "geo_local_area":"Fairview"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"baf481d61c9b1a83a2a93ef139b72305b331f7ee",
+     "fields":{
+        "description":"Designated 3HR Parking Zone",
+        "notes":"No stopping accessible zone 3-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.184918,
+              49.248042
+           ]
+        },
+        "location":"South Side 3500 W 27th Av",
+        "geo_local_area":"Dunbar-Southlands"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"8a1f7acffe189f1f8d45d3bfd23263728d141b4a",
+     "fields":{
+        "description":"Designated 2HR parking zone",
+        "notes":"No stopping accessible zone 2-hour parking",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.094023,
+              49.273874
+           ]
+        },
+        "location":"North Side 400 National Av",
+        "geo_local_area":"Strathcona"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"82da83e225f7f11012e12f6102801971044620e1",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.125323,
+              49.262211
+           ]
+        },
+        "location":"East Side  2600 Laurel St",
+        "geo_local_area":"Fairview"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"bd070e65610238a78703bcc8408e79e4a849b71b",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.123158,
+              49.262425
+           ]
+        },
+        "location":"North Side 800 W 10th Av",
+        "geo_local_area":"Fairview"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"fb713a707043c96ce90a0ae7fdbf8278efdb0c28",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.113817,
+              49.266701
+           ]
+        },
+        "location":"North Side 400 W 5th Av",
+        "geo_local_area":"Mount Pleasant"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  },
+  {
+     "datasetid":"disability-parking",
+     "recordid":"97f3bc743713e36b2b156caff9e8620dcac0b347",
+     "fields":{
+        "description":"Designated meter parking space",
+        "notes":"No stopping accessible zone",
+        "spaces":1,
+        "geom":{
+           "type":"Point",
+           "coordinates":[
+              -123.122888,
+              49.262425
+           ]
+        },
+        "location":"North Side 800 W 10th Av",
+        "geo_local_area":"Fairview"
+     },
+     "record_timestamp":"2019-10-28T03:30:32.094-07:00"
+  }
+]
