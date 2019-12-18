@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Initialized during a half day hackathon, we decided to re-implement the functionality from https://vancouver.ca/streets-transportation/accessible-parking.aspx
+
+
+
+(Below is part of the default README from creating a React app).
+
 ## Available Scripts
 
 In the project directory, you can run:
