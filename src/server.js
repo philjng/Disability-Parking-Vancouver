@@ -1,4 +1,6 @@
-const express = require('express');
+// initialize server in command line with 'node server.js'
+
+const express = require('express');     // used for serving / api requests
 const app = express();
 const port = 5001;
 const path = require('path');

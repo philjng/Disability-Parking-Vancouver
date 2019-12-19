@@ -11,13 +11,23 @@ export class MapContainer extends Component {
     }
 
     state = {
-        showingInfoWindow: false,  //Hides or the shows the infoWindow
-        activeMarker: {},          //Shows the active marker upon click
-        selectedPlace: {},          //Shows the infoWindow to the selected place upon a marker
-        data: "LOADING"
+        showingInfoWindow: false,   // Hides or the shows the infoWindow
+        activeMarker: {},           // Shows the active marker upon click
+        selectedPlace: {},          // Shows the infoWindow to the selected place upon a marker
+        data: "LOADING"             // Initial state of data
     };
 
     componentDidMount() {
+        /** creates a promise (asynchronous) that waits for data from server at URL.
+         * promise either resolves or is rejected
+         * .then() takes 2 arguments: 1st is if promise is returned
+         * 2nd (optional) is if promise is rejected
+         * in code below: first .then() calls a function that takes response and returns it as json
+         * .json() is also a promise that takes a response stream and reads it to completion.
+         * It is promise chaining into the next .then(),
+         * which takes the json object, and sets data in state to the returned json object
+         * apparently it is also a promise chain that then console logs in the next .then()
+         **/
         fetch('http://localhost:5001/disabilityParkingRequest')
             .then(response => response.json())
             .then(json => {
